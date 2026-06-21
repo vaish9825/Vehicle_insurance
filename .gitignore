@@ -1,0 +1,17 @@
+# Miniconda installer
+Miniconda3-latest-MacOSX-*.sh
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual env
+venv/
+vehicle/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
