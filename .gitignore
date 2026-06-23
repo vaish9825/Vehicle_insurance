@@ -15,3 +15,15 @@ vehicle/
 
 # macOS
 .DS_Store
+
+# Generated artifacts
+artifact/
+logs/
+.env
+*.pyc
+
+# Environment
+.env
+
+# Models
+*.pkl
